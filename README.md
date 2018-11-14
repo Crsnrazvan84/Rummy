@@ -1,2 +1,0 @@
-# Rummy
-Created with CodeSandbox

@@ -1,0 +1,165 @@
+#halfboardtop {
+  height: 200px;
+  width: 1396px;
+  margin-left: 2px;
+  background-color: rgb(212, 135, 71);
+  box-shadow: 5px -5px 5px 0px rgba(0, 0, 0, 0.5);
+}
+
+#halfboardbottom {
+  height: 200px;
+  width: 1400px;
+  background-color: rgb(212, 135, 71);
+  box-shadow: 5px -5px 5px 0px rgba(0, 0, 0, 0.5);
+}
+#sideleft {
+  float: left;
+  height: 200px;
+  width: 20px;
+  background-color: silver;
+  border-radius: 2px;
+}
+
+#sideright {
+  float: right;
+  height: 200px;
+  width: 20px;
+  background-color: silver;
+}
+#bottom {
+  height: 10px;
+  width: 1400px;
+  background-color: rgb(161, 63, 6);
+  border-radius: 2px;
+  box-shadow: 0px -2px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+.tablaRummy {
+  margin: auto;
+  width: 1400px;
+  position: absolute;
+  bottom: 5px;
+  right: 0;
+  left: 0;
+}
+
+.card {
+  height: 190px;
+  width: 120px;
+  float: left;
+  margin-top: 7px;
+  margin-left: 1px;
+  border: 1px solid grey;
+  border-radius: 3px;
+  background-color: whitesmoke;
+  box-shadow: 2px -2px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+.numberblue {
+  text-align: center;
+  font-family: arial black;
+  font-size: 5em;
+  background-color: blue;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  text-shadow: rgba(255, 255, 255, 0.5) 0px 3px 3px;
+}
+
+.numberred {
+  text-align: center;
+  font-family: arial black;
+  font-size: 5em;
+  background-color: red;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  text-shadow: rgba(255, 255, 255, 0.5) 0px 3px 3px;
+}
+
+.numberblack {
+  text-align: center;
+  font-family: arial black;
+  font-size: 5em;
+  background-color: black;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  text-shadow: rgba(255, 255, 255, 0.5) 0px 3px 3px;
+}
+
+.numberyellow {
+  text-align: center;
+  font-family: arial black;
+  font-size: 5em;
+  background-color: rgb(241, 241, 8);
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  text-shadow: rgba(255, 255, 255, 0.5) 0px 3px 3px;
+}
+
+.dot {
+  border: 1px solid grey;
+  border-radius: 50%;
+  height: 25px;
+  width: 25px;
+  margin: 20px auto;
+  box-shadow: inset -1px 1px 1px 1px rgba(0, 0, 0, 0.5);
+}
+
+.joly {
+  border: 2px solid black;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  margin: 8px;
+  background-color: rgb(238, 238, 40);
+  box-shadow: inset 3px 3px 5px 0px rgba(90, 84, 84, 0.5);
+}
+
+.lefteye {
+  border: 2px solid black;
+  border-radius: 50%;
+  height: 20px;
+  width: 10px;
+  float: left;
+  margin-left: 25px;
+  margin-top: 25px;
+  background-color: black;
+}
+
+.righteye {
+  border: 2px solid black;
+  border-radius: 50%;
+  height: 20px;
+  width: 10px;
+  float: right;
+  margin-right: 25px;
+  margin-top: 25px;
+  background-color: black;
+}
+
+.mouth {
+  width: 60px;
+  height: 10px;
+  background-color: black;
+  margin: 70px auto;
+  border-top-left-radius: 15%;
+  border-top-right-radius: 15%;
+  border-bottom-left-radius: 50%;
+  border-bottom-right-radius: 50%;
+}
+
+.sidedot {
+  height: 12px;
+  width: 12px;
+  border-radius: 50%;
+  margin-top: 95px;
+  margin-left: 20%;
+  background-color: black;
+}
