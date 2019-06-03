@@ -4,4 +4,4 @@ HTML built Rummy table
 ```
 
 ## Live Preview
-Open [index.html](https://crsnrazvan84.github.io/Rummy/index.html)
+Open [index.html](https://razvanwebdev.github.io/Rummy/index.html)
